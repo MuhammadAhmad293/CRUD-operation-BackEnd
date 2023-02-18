@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CRUDoperations.DataModel/1.0.0": {
+        "runtime": {
+          "CRUDoperations.DataModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CRUDoperations.DataModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
